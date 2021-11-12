@@ -5,7 +5,7 @@ que facilita a troca de informações entre a interface do usuário aos dados no
 com que as respostas sejam mais rápidas e dinâmicas.</p>
  
  <div align="left">
-  <img src="https://coremvc.com.br/wp-content/uploads/2017/08/modelo_mvc_destacada.png" width="350"/>
+  <img src="https://coremvc.com.br/wp-content/uploads/2017/08/modelo_mvc_destacada.png" width="450"/>
 </div>
 
 ### Linguagens usadas [ Languages used ]
