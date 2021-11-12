@@ -1,4 +1,4 @@
-# MVC - Model-View-Controller
+# MVC  Model-View-Controller
 
 <p align="left">
  O MVC é uma sigla do termo em inglês Model (modelo) View (visão) e Controller (Controle) </br> 
