@@ -80,7 +80,6 @@ C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\RpgMvc.dll
 C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\ref\RpgMvc.dll
 C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\RpgMvc.pdb
 C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\RpgMvc.genruntimeconfig.cache
-C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\bin\Debug\net5.0\Views\launchSettings.json
 C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\bin\Debug\net5.0\Newtonsoft.Json.dll
@@ -88,3 +87,7 @@ C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\bin\Debug\net5.0\Newtonsoft.Json.B
 C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\Razor\Views\Usuarios\CadastrarUsuario.cshtml.g.cs
 C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartialRpg.cshtml.g.cs
 C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\Razor\Views\Usuarios\AutenticarUsuario.cshtml.g.cs
+C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Create.cshtml.g.cs
+C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Details.cshtml.g.cs
+C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\index.cshtml.g.cs
+C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Edit.cshtml.g.cs
