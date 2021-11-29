@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Carlos\\Desktop\\DS-CARLOSKAUAN\\RpgMvc\\Views\\Disputas\\Index.cshtml",
+      "TargetPath": "Views\\Disputas\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Carlos\\Desktop\\DS-CARLOSKAUAN\\RpgMvc\\Views\\Usuarios\\AutenticarUsuario.cshtml",
       "TargetPath": "Views\\Usuarios\\AutenticarUsuario.cshtml",
       "FileKind": "mvc"
@@ -15651,6 +15656,11 @@
     {
       "FilePath": "c:\\Users\\Carlos\\Desktop\\DS-CARLOSKAUAN\\RpgMvc\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Carlos\\Desktop\\DS-CARLOSKAUAN\\RpgMvc\\Views\\Disputas\\IndexHabilidades.cshtml",
+      "TargetPath": "Views\\Disputas\\IndexHabilidades.cshtml",
       "FileKind": "mvc"
     },
     {

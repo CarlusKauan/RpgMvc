@@ -91,3 +91,5 @@ C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\Razor\Views\Perso
 C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Details.cshtml.g.cs
 C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\index.cshtml.g.cs
 C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Edit.cshtml.g.cs
+C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\Razor\Views\Disputas\Index.cshtml.g.cs
+C:\Users\Carlos\Desktop\DS-CARLOSKAUAN\RpgMvc\obj\Debug\net5.0\Razor\Views\Disputas\IndexHabilidades.cshtml.g.cs
