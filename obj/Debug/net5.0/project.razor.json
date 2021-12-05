@@ -15619,6 +15619,11 @@
   "RootNamespace": "RpgMvc",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Carlos\\Desktop\\DS-CARLOSKAUAN\\RpgMvc\\Views\\Armas\\Create.cshtml",
+      "TargetPath": "Views\\Armas\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Carlos\\Desktop\\DS-CARLOSKAUAN\\RpgMvc\\Views\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
@@ -15661,6 +15666,21 @@
     {
       "FilePath": "c:\\Users\\Carlos\\Desktop\\DS-CARLOSKAUAN\\RpgMvc\\Views\\Disputas\\IndexHabilidades.cshtml",
       "TargetPath": "Views\\Disputas\\IndexHabilidades.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Carlos\\Desktop\\DS-CARLOSKAUAN\\RpgMvc\\Views\\Armas\\Edit.cshtml",
+      "TargetPath": "Views\\Armas\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Carlos\\Desktop\\DS-CARLOSKAUAN\\RpgMvc\\Views\\Armas\\Index.cshtml",
+      "TargetPath": "Views\\Armas\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Carlos\\Desktop\\DS-CARLOSKAUAN\\RpgMvc\\Views\\Armas\\Details.cshtml",
+      "TargetPath": "Views\\Armas\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
